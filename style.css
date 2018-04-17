@@ -1,0 +1,64 @@
+body {
+	  background-color: #ffffff;
+	  background-image: url("background1.jpg");
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  margin: 0px 0px 0px 0px;
+	}
+p {
+	font-family: Lato;
+	color: #454545
+	font-size: 20px;
+	line-height: 8px;
+}
+
+span {font-family: Lato;
+	color: #ffffff;
+	font-size: 15px;	
+	vertical-align: middle;
+	line-height: normal;
+	font-weight: 700;
+	}
+			
+	a{ text-decoration:none;
+	}
+h2 {font-family: Lato;
+	font-weight: bold;
+	color: #454545;
+	font-size: 38px;
+		margin: 15px 0px 0px 8px;
+	}
+a:link {
+		color: #ff6d1e;
+}
+a:visited {
+		color: #2e67bc;
+}
+a:hover {
+		color: #f99e22;
+}
+.atasan {
+	height: 5%;
+	width: 100%;
+	vertical-align: middle;
+	background-color: #454545;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	line-height: 100px;
+	text-align: left;
+}
+div {
+	margin: 0px 0px 0px 0px;
+}
+#test {
+		background-attachment: fixed;
+		height: 900px;
+		width: 1139px;
+		margin: auto;
+		background: #e1e1e1;
+		
+		vertical-align: center;
+		text-align: center;
+	
+		
+}
